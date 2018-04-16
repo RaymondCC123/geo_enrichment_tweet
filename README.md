@@ -18,4 +18,4 @@ We used a similar method for topic modeling tobacco-related tweets. Also, Dredze
 
 Also, I think it's important to note that the latitude/longitude (provided through a GPS enabled device) is tied to a Twitter user NOT a specific tweet/status update. This is true as well with user-reported profile location. This is just something to keep in mind.
 
-Hope this helps!
+Twitter Search API : https://developer.twitter.com/en/docs/tweets/search/api-reference/get-search-tweets
